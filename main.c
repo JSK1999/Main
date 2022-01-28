@@ -24,7 +24,7 @@
 #define rs PD5    
 
 
-int main(void)
+int main()
 
 {
 
